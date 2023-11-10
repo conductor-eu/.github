@@ -1,7 +1,7 @@
 
 # Advanced, High-level Traffic and Fleet Management
 
-> **CONDUCTOR’s main goal**
+<p align="center"><b>CONDUCTOR’s main goal</b></p>
 To design, integrate and demonstrate advanced, high-level traffic and fleet management that will allow efficient and globally optimal transport of passengers and goods, while ensuring seamless multimodality and interoperability, through dynamic balancing and priority-based management of vehicles (automated and conventional).
 
 ## Demonstrating
